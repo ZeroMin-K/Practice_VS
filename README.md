@@ -3,3 +3,9 @@
 Visual studio code를 사용해서 깃허브를 연습
 
 **README.md** 파일을 작성 중
+
+---
+
+### Visual Studio Code
+
+README 파일 수정
